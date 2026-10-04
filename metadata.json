@@ -1,0 +1,6 @@
+{
+  "name": "Seva",
+  "description": "High-performance customer mobile application for India-wide local services marketplace connecting customers with verified electricians, plumbers, technicians, and local service partners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
